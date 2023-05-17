@@ -7,7 +7,7 @@
  * @author Thoren Strunk <edv@tstrunk.de>
  * @copyright Copyright (c) T.Strunk Software e.K.
  * Hinweis:
- * Dieses Projekt ist gemäß den Bedingungen der GPL V3 lizenziert
+ * Dieses Projekt ist gemäß den Bedingungen der AGPL V3 lizenziert
  **/
 
 // Smartyresourcen
