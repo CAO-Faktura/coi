@@ -20,8 +20,8 @@ class Config {
     public static $MinShopVersion = 6100;
     public static $MaxShopVersion = 6520;
     public static $ShopVersionRange = 6599;
-    public static $COIVersion = '6.20';
-    public static $COIVersionDate = "17.01.2023";
+    public static $COIVersion = '6.21';
+    public static $COIVersionDate = "17.05.2023";
     public static $IsNoAuth = 0;
     public static $IsUserTax = 0;
     public static $IsVetena = 0;
